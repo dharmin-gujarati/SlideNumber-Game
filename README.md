@@ -1,6 +1,6 @@
 
-
-https://github.com/user-attachments/assets/aec21c70-558e-4f61-83b8-285eae739528
+# all aplication preview (Line)
+https://drive.google.com/drive/u/0/folders/1Xb_xvGzgZF6vuxMhms4Ypp4D6hUqDO1o
 
 
 # 🎯 SlideNumber Game (iOS)
