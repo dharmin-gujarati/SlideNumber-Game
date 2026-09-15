@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/aec21c70-558e-4f61-83b8-285eae739528
+
+
 # 🎯 SlideNumber Game (iOS)
 
 A simple and interactive **number sliding puzzle game** built for iOS using Swift.  
